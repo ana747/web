@@ -1,0 +1,39 @@
+
+ .news {
+       background-color: rgb(98, 37, 19);
+       padding: 1em;
+       border: solid thin black;
+     }
+     
+     menu {
+       list-style-type: none;
+       display: flex;
+       padding: 50;
+       margin-bottom: 50;
+       gap: 20em;
+       font-size:large
+     }
+      
+     .info {
+       color:blue 
+       
+ }
+  
+     h2{
+       color:white
+     }
+ 
+     .avtori {
+       background-color: rgb(98, 37, 19);
+       padding: 1em;
+       border: solid thin rgb(0, 0, 0);
+     }
+     
+     menu {
+       list-style-type: none;
+       display: flex;
+       padding: 50;
+       margin-bottom: 50;
+       gap: 20em;
+       font-size:large
+     }
